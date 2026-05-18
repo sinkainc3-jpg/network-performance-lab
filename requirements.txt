@@ -1,0 +1,4 @@
+ping3
+speedtest-cli
+pandas
+matplotlib
